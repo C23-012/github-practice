@@ -20,4 +20,5 @@ public class Calc {
 
         stdIn.close();
     }
+    //機能を追加しましたよ
 }
