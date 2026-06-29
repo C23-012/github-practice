@@ -12,5 +12,5 @@ jobs:
     - uses: actions/first-interaction@v1
       with:
         repo-token: ${{ secrets.GITHUB_TOKEN }}
-        issue-message: "イシュー開始"
-        pr-message: "プルリクエスト開始"
+        issue-message: "Issue Start"
+        pr-message: "pull requests start"
